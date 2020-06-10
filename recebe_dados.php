@@ -2,7 +2,7 @@
 session_start();
 ob_start();
 /*
-*@author Raul Ferreira da Rocha https://github.com/raulferreiradarocha/jogo/
+*@author Raul Ferreira da Rocha https://github.com/raulferreiradarocha/game-rock-paper-scissors
 *Criação 09/06/2020
 *Licença: MIT, Citar o Autor, manter este bloco de código.
 *
